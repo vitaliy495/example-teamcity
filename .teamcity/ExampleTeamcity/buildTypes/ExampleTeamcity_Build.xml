@@ -30,7 +30,7 @@
           <param name="pomLocation" value="pom.xml" />
           <param name="runnerArgs" value="-Dmaven.test.failure.ignore=true" />
           <param name="teamcity.step.mode" value="default" />
-          <param name="userSettingsSelection" value="settings.xml" />
+          <param name="userSettingsSelection" value="userSettingsSelection:default" />
         </parameters>
       </runner>
     </build-runners>
