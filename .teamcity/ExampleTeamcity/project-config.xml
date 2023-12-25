@@ -8,6 +8,7 @@
         <param name="buildSettings" value="ALWAYS_USE_CURRENT" />
         <param name="credentialsStorageType" value="credentialsJSON" />
         <param name="enabled" value="true" />
+        <param name="ignoreChangesInDependenciesAndVcsSettings" value="true" />
         <param name="rootId" value="ExampleTeamcity_HttpsGithubComVitaliy495exampleTeamcityGitRefsHeadsMaster" />
         <param name="showChanges" value="false" />
       </parameters>
